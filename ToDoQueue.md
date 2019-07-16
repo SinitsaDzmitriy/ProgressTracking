@@ -15,7 +15,7 @@
    - [X] update Ranking case.
    - [X] write test for the "Delete Ranking" case.
    - [X] write test for the "Delete nonexistent Ranking" case.
-   - [ ] remove Ranking case.
+   - [X] remove Ranking case.
    - [ ] find average Ranking for a subject's skill case.
    - [ ] find all Rankings for a subject case.
    - [ ] find the highest-ranked subject case.
