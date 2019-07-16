@@ -12,7 +12,9 @@
    - [X] write test for "Get Ranking" case.
    - [X] write test for "Get nonexistent Ranking" case.
    - [X] get Ranking case impl.
-   - [ ] update Ranking case.
+   - [X] update Ranking case.
+   - [X] write test for the "Delete Ranking" case.
+   - [X] write test for the "Delete nonexistent Ranking" case.
    - [ ] remove Ranking case.
    - [ ] find average Ranking for a subject's skill case.
    - [ ] find all Rankings for a subject case.
