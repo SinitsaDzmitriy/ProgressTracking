@@ -7,9 +7,10 @@
 - [ ] Finish Evaluator example.
    - [X] add Ranking case.
    - [X] test add Ranking case.
+   - [X] write test for update existent Ranking case.
+   - [X] write test for update nonexistent Ranking case.
+   - [X] write test for "Get Ranking" case.
    - [X] get Ranking case.
-   - [X] write tests for update existent Ranking case.
-   - [ ] write tests for update nonexistent Ranking case.
    - [ ] update Ranking case.
    - [ ] remove Ranking case.
    - [ ] find average Ranking for a subject's skill case.
