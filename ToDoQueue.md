@@ -1,14 +1,15 @@
 
 - [ ] Apply the gained knowledge in the main project.
+   - [X] implement associations between Cards and their relationships (represented as CardMapping objects).
    Think of 
    - [ ] what entities should be implemented according the db schema (enum included).
    - [ ] what types of relationships are between them (uni-/bidirectional; one2one, one2many, many2one or many2many).
-    =====
+   -------
    - [ ] refresh enums.
    - [ ] implement required enums.
    - [ ] implement other mapped objects.
-- [ ] Get to know about ...
-   Source: Hibernate documentation.
+- [X] Get to know about ...
+   Source: Hibernate documentation and thoughts-on-java.org
    - [X] The Many-to-Many association.
    - [X] Mapping Many-to-Many associations.
 - [X] Finish Evaluator example.
