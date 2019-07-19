@@ -1,4 +1,8 @@
-
+- [ ] Audio file lifecycle
+   - [ ] Upload (audio) file from JSP
+   - [ ] Save (audio) file in database
+   - [ ] Read (audio) file from database
+   - [ ] Play (audio) file from JSP
 - [ ] Apply the gained knowledge in the main project.
    - [X] implement associations between Cards and their relationships (represented as CardMapping objects).
    Think of 
