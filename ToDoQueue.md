@@ -1,6 +1,8 @@
 - [ ] Audio file lifecycle
-   - [ ] Upload (audio) file from JSP
-   - [ ] Save (audio) file in database
+   - [X] Upload (audio) file from JSP
+   - [ ] Save (audio) file in database as BLOB
+   - [ ] Add User entity 
+   - [ ] Create the full JSP view
    - [ ] Read (audio) file from database
    - [ ] Play (audio) file from JSP
 - [ ] Apply the gained knowledge in the main project.
