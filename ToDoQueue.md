@@ -1,9 +1,11 @@
+- [ ] Spring Security
+   Just an enormouse piece of work | The sub-list will be extended while working
 - [ ] Audio file lifecycle
    - [X] Upload (audio) file from JSP
-   - [ ] Save (audio) file in database as BLOB
-   - [ ] Add User entity 
+   - [X] Save (audio) file in database as BLOB
+   - [X] Add User entity 
    - [ ] Create the full JSP view
-   - [ ] Read (audio) file from database
+   - [X] Read (audio) file from database
    - [ ] Play (audio) file from JSP
 - [ ] Apply the gained knowledge in the main project.
    - [X] implement associations between Cards and their relationships (represented as CardMapping objects).
