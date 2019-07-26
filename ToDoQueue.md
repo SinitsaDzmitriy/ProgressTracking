@@ -1,5 +1,12 @@
+- [ ] View
+   - Create a registration form
 - [ ] Spring Security
-   Just an enormouse piece of work | The sub-list will be extended while working
+   - [X] Figure out how Spring Security knows about roles while access control  
+   - [ ] Create database schema for users and roles
+   - [ ] Map it using Hibernate
+   - [ ] Create DAO for Users that implements UserDetailsService interface
+   - [ ] Connect the pre-prepared infrastructure to Spring Securit
+   - [ ] Enjoy your life a bit
 - [ ] Audio file lifecycle
    - [X] Upload (audio) file from JSP
    - [X] Save (audio) file in database as BLOB
