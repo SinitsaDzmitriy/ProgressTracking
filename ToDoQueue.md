@@ -1,12 +1,20 @@
+- [ ] 
 - [ ] View
    - Create a registration form
 - [ ] Spring Security
    - [X] Figure out how Spring Security knows about roles while access control  
-   - [ ] Create database schema for users and roles
-   - [ ] Map it using Hibernate
+   - [X] Create database schema for users and roles
+   - [X] Map it using Hibernate
+   - [X] Get more about the DAO pattorn and best-practices in its implimentation
+   - [X] Create the generic DAO Interface
+   - [X] Create the generic DAO class
+   - [X] Connect Hibernate to the main project
    - [ ] Create DAO for Users that implements UserDetailsService interface
+   - [ ] Create the IUserService interface that will cover registration use-case
+   - [ ] Implement IUserService
+   - [ ] Use declarative transactions
    - [ ] Connect the pre-prepared infrastructure to Spring Securit
-   - [ ] Enjoy your life a bit
+   - [X]Enjoy your life a bit
 - [ ] Audio file lifecycle
    - [X] Upload (audio) file from JSP
    - [X] Save (audio) file in database as BLOB
