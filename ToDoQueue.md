@@ -1,6 +1,6 @@
-- [ ] 
+- [ ] empty
 - [ ] View
-   - Create a registration form
+   - [ ] Create a registration form
 - [ ] Spring Security
    - [X] Figure out how Spring Security knows about roles while access control  
    - [X] Create database schema for users and roles
