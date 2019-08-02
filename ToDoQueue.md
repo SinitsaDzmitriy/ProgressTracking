@@ -1,7 +1,16 @@
-- [ ] empty
-- [ ] View
-   - [ ] Create a registration form
-- [ ] Spring Security
+- [ ] Get to know about REST API
+   - [ ] Read wiki
+   - [ ] Read the mentor's link
+- [ ] Develop common for all pages footer and header 
+- [ ] Handle with properties file(s)
+   - [ ] Create the main application.properties file
+   - [ ] Place all harcoded configuration values in it
+   - [ ] Configure MySQL embedded connection
+   - [ ] Create the application.properties test edition file
+   - [ ] Set up H2 in-memory db connection for integration tests (jdbc:h2:mem)
+- [X] View
+   - [X] Create a registration form
+- [X] Spring Security
    - [X] Figure out how Spring Security knows about roles while access control  
    - [X] Create database schema for users and roles
    - [X] Map it using Hibernate
@@ -9,11 +18,11 @@
    - [X] Create the generic DAO Interface
    - [X] Create the generic DAO class
    - [X] Connect Hibernate to the main project
-   - [ ] Create DAO for Users that implements UserDetailsService interface
-   - [ ] Create the IUserService interface that will cover registration use-case
-   - [ ] Implement IUserService
-   - [ ] Use declarative transactions
-   - [ ] Connect the pre-prepared infrastructure to Spring Securit
+   - [X] Create DAO for Users that implements UserDetailsService interface
+   - [X] Create the IUserService interface that will cover registration use-case
+   - [X] Implement IUserService
+   - [X] Use declarative transactions
+   - [X] Connect the pre-prepared infrastructure to Spring Securit
    - [X]Enjoy your life a bit
 - [ ] Audio file lifecycle
    - [X] Upload (audio) file from JSP
