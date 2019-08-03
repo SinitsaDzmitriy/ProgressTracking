@@ -3,8 +3,8 @@
    - [ ] Read the mentor's link
 - [ ] Develop common for all pages footer and header 
 - [ ] Handle with properties file(s)
-   - [ ] Create the main application.properties file
-   - [ ] Place all harcoded configuration values in it
+   - [X] Create the main application.properties file
+   - [X] Place all harcoded configuration values in it
    - [ ] Configure MySQL embedded connection
    - [ ] Create the application.properties test edition file
    - [ ] Set up H2 in-memory db connection for integration tests (jdbc:h2:mem)
