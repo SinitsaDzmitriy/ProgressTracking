@@ -1,13 +1,18 @@
-- [ ] Get to know about REST API
-   - [ ] Read wiki
-   - [ ] Read the mentor's link
-- [ ] Develop common for all pages footer and header 
-- [ ] Handle with properties file(s)
+- [ ] Angular
+   - [ ] Add details here...
+- [ ] Develop and test (with Postman) UserRest controller
+- [ ] Test (with Postman) CardRestController
+- [ ] Create Populater that attches all cards to new user 
+- [X] Get to know about REST API
+   - [X] Read wiki
+   - [X] Read the mentor's link
+- [X] Develop common for all pages footer and header 
+- [X] Handle with properties file(s)
    - [X] Create the main application.properties file
    - [X] Place all harcoded configuration values in it
-   - [ ] Configure MySQL embedded connection
-   - [ ] Create the application.properties test edition file
-   - [ ] Set up H2 in-memory db connection for integration tests (jdbc:h2:mem)
+   - [X] Configure MySQL embedded connection
+   - [X] Create the application.properties test edition file
+   - [X] Set up H2 in-memory db connection for integration tests (jdbc:h2:mem)
 - [X] View
    - [X] Create a registration form
 - [X] Spring Security
