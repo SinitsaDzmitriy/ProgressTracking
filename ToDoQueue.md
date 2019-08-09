@@ -1,3 +1,4 @@
+- [ ] Add findLazyByProperty() and findEaglyByProperty() methods to GenericDao
 - [ ] Angular
    - [ ] Add details here...
 - [ ] Develop and test (with Postman) UserRest controller
