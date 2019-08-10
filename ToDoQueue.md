@@ -3,7 +3,7 @@
    - [ ] Add details here...
 - [ ] Develop and test (with Postman) UserRest controller
 - [ ] Test (with Postman) CardRestController
-- [ ] Create Populater that attches all cards to new user 
+- [X] Create Populater that attches all cards to new user 
 - [X] Get to know about REST API
    - [X] Read wiki
    - [X] Read the mentor's link
