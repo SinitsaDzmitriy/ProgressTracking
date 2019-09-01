@@ -1,3 +1,10 @@
+- [ ] Use-case "Assign (назначить, устанавливать) card (Card obj) to User"
+   - [ ] Think up how User adds card to their favourites on the UI
+   - [ ] Designate what is going on when User initiates the use-case: create UserCard using Card as one of its field
+   (abstract description)
+   - [ ] Create step-by-step technical description of back-end flow
+   - [ ] Implement it
+-------
 - [ ] Add findLazyByProperty() and findEaglyByProperty() methods to GenericDao
 - [ ] Angular
    - [ ] Add details here...
