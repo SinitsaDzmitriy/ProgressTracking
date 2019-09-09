@@ -1,3 +1,6 @@
+- [ ] UI improvment (Bootstrap)
+   - [ ] 2 Step card creation form
+   - [ ] New user registretion form
 - [X] Use-case "Assign (назначить, устанавливать) card (Card obj) to User"
    - [X] Think up how User adds card to their favourites on the UI
    - [X] Implement front-end
