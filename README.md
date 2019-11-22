@@ -1,2 +1,4 @@
-# ProgressTracking
-The only goal is to track my internship advancement.
+# TaskTracker
+Repo to order tasks and manage their states.
+## Other files
+* [Queue of tasks](ToDoQueue.md)
