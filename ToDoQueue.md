@@ -1,79 +1,13 @@
-- [ ] UI improvment (Bootstrap)
-   - [ ] 2 Step card creation form
-   - [ ] New user registretion form
-- [X] Use-case "Assign (назначить, устанавливать) card (Card obj) to User"
-   - [X] Think up how User adds card to their favourites on the UI
-   - [X] Implement front-end
-   - [X] Designate what is going on when User initiates the use-case: create UserCard using Card as one of its field
-   (abstract description)
-   - [X] Create step-by-step technical description of back-end flow
-   - [X] Implement it
--------
-- [ ] Add findLazyByProperty() and findEaglyByProperty() methods to GenericDao
-- [ ] Angular
-   - [ ] Add details here...
-- [ ] Develop and test (with Postman) UserRest controller
-- [ ] Test (with Postman) CardRestController
-- [X] Create Populater that attches all cards to new user 
-- [X] Get to know about REST API
-   - [X] Read wiki
-   - [X] Read the mentor's link
-- [X] Develop common for all pages footer and header 
-- [X] Handle with properties file(s)
-   - [X] Create the main application.properties file
-   - [X] Place all harcoded configuration values in it
-   - [X] Configure MySQL embedded connection
-   - [X] Create the application.properties test edition file
-   - [X] Set up H2 in-memory db connection for integration tests (jdbc:h2:mem)
-- [X] View
-   - [X] Create a registration form
-- [X] Spring Security
-   - [X] Figure out how Spring Security knows about roles while access control  
-   - [X] Create database schema for users and roles
-   - [X] Map it using Hibernate
-   - [X] Get more about the DAO pattorn and best-practices in its implimentation
-   - [X] Create the generic DAO Interface
-   - [X] Create the generic DAO class
-   - [X] Connect Hibernate to the main project
-   - [X] Create DAO for Users that implements UserDetailsService interface
-   - [X] Create the IUserService interface that will cover registration use-case
-   - [X] Implement IUserService
-   - [X] Use declarative transactions
-   - [X] Connect the pre-prepared infrastructure to Spring Securit
-   - [X]Enjoy your life a bit
-- [ ] Audio file lifecycle
-   - [X] Upload (audio) file from JSP
-   - [X] Save (audio) file in database as BLOB
-   - [X] Add User entity 
-   - [ ] Create the full JSP view
-   - [X] Read (audio) file from database
-   - [ ] Play (audio) file from JSP
-- [ ] Apply the gained knowledge in the main project.
-   - [X] implement associations between Cards and their relationships (represented as CardMapping objects).
-   Think of 
-   - [ ] what entities should be implemented according the db schema (enum included).
-   - [ ] what types of relationships are between them (uni-/bidirectional; one2one, one2many, many2one or many2many).
-   -------
-   - [ ] refresh enums.
-   - [ ] implement required enums.
-   - [ ] implement other mapped objects.
-- [X] Get to know about ...
-   Source: Hibernate documentation and thoughts-on-java.org
-   - [X] The Many-to-Many association.
-   - [X] Mapping Many-to-Many associations.
-- [X] Finish Evaluator example.
-   - [X] add Ranking case.
-   - [X] test add Ranking case.
-   - [X] write test for update existent Ranking case.
-   - [X] write test for update nonexistent Ranking case.
-   - [X] write test for "Get Ranking" case.
-   - [X] write test for "Get nonexistent Ranking" case.
-   - [X] get Ranking case impl.
-   - [X] update Ranking case.
-   - [X] write test for the "Delete Ranking" case.
-   - [X] write test for the "Delete nonexistent Ranking" case.
-   - [X] remove Ranking case.
-   - [ ] find average Ranking for a subject's skill case.
-   - [ ] find all Rankings for a subject case.
-   - [ ] find the highest-ranked subject case.
-- [X] Add the checkstryle to the project settings.
+# ToDo Queue
+Time period: 18.11.2019 - 22.11.2019
+## New
+- [fix] Runtime Twitter callback generation.
+- [feature] Read-only access for Twitter accounts.
+- [refactoring] Use built-in constant for HTTP OK status (200).
+- [refactoring] Add config property file to set up the project.
+- [refactoring] Separate sending of HTTP request from Twitter auth service.
+## In progress
+
+## On approvement
+- [feature] Create README with Installation and Deployment instructions
+## Done
