@@ -8,5 +8,4 @@ Time period: 18.11.2019 - 22.11.2019
 - [fix] Runtime Twitter callback generation.
 - [refactoring] Use built-in constant for HTTP OK status (200).
 - [feature] Read-only access for Twitter accounts.
-- [feature] Create README with Installation and Deployment instructions
 ## Done
